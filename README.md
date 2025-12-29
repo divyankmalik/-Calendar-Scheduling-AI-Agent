@@ -188,21 +188,15 @@ Edit `config.py` to customize:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 👤 Author
 
-Your Name - [your-email@example.com]
+Divyank Malik
 
 ## 🙏 Acknowledgments
 
 - Built with Python's standard library
 - No external dependencies required
 - Designed for simplicity and extensibility
-
----
 
 ⭐ Star this repo if you find it helpful!
 """
